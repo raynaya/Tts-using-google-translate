@@ -1,3 +1,2 @@
 This  project is an attempt to use google translate to do text to speech.
-
-here to make GET requests i have used http client lib.
+Here to make GET requests i have used http client lib.Here is a link to it http://hc.apache.org/downloads.cgi
