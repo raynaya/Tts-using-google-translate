@@ -1,0 +1,3 @@
+This  project is an attempt to use google translate to do text to speech.
+
+here to make GET requests i have used http client lib.
